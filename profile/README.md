@@ -1,6 +1,6 @@
 <h1 align="center">Learning2Control</h1>
 
-<img src="./assets/top_banner.png">
+<img src="/profile/assets/top_banner.png">
 
 Hi there! :wave: </br>We are <b>Learning2Control</b>, a group part of <a href="www.polimi.it">Politecnico di Milano</a> and the <a href="https://www.move.deib.polimi.it/">MOVE</a> research team.
 
